@@ -1,0 +1,6 @@
+# Ignorar arquivos temporarios do MATLAB e Simulink
+slprj/
+*.slxc
+*.asv
+*.m~
+*.autosave
